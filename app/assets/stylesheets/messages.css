@@ -94,13 +94,13 @@
   display: flex;
 }
 
-.chat-name {
+.message_user {
   font-size: 16px;
   color: #434a54;
 }
 
 
-.chat-date {
+.message-date {
   font-size: 12px;
   color: #999;
   padding-left: 10px;
@@ -110,13 +110,13 @@
   margin-top: 10px;
 }
 
-.chat-message {
+.message-content {
   font-size: 14px;
   color: #434a54;
   margin-bottom: 40px;
 }
 
-.main-bottom {
+.form {
   height: 90px;
   background-color: #dddddd;
   padding: 20px 40px;
@@ -129,7 +129,7 @@
   display: flex;
 }
 
-.form-text {
+.form-message {
   height: 50px;
   padding-left: 10px;
   border: none;
