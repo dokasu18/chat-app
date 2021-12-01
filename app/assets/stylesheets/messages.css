@@ -116,7 +116,7 @@
   margin-bottom: 40px;
 }
 
-.main-bottom {
+.form {
   height: 90px;
   background-color: #dddddd;
   padding: 20px 40px;
@@ -129,7 +129,7 @@
   display: flex;
 }
 
-.form-text {
+.form-message {
   height: 50px;
   padding-left: 10px;
   border: none;
